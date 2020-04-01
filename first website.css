@@ -1,0 +1,18 @@
+body{
+	background-color: dodgerblue;
+	
+}
+.food a{
+	color: white;
+	text-align: center;
+	padding: 30px;
+
+}
+img{
+	width: 500px;
+	height:400px;
+
+}
+ h1 {
+	text-align: center;
+}

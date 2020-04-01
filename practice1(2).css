@@ -1,0 +1,80 @@
+h1{
+	color:pink;
+	text-align: center;
+	font-size:large;
+	border:5px solid grey;
+	margin:top right bottom left;
+	
+}
+h2{
+	color:black;
+	text-align:center;
+	font-size:large; 
+}
+h3{
+	color:pink;
+	text-align: center;
+	font-size:large;
+}
+h4{
+	color: purple;
+	text-align: center;
+	font-size:large; 
+}
+h5{
+	color:yellow;
+	text-align: center;
+	font-size:large; 
+}
+h6{ 
+	color:green;
+	text-align: center;
+	font-size:large; 
+}
+img{
+	color: white;
+img:center;
+}
+p{
+	color: red;
+	text-align:center;
+	background-color:green;
+}
+b{
+	background-color:aqua;
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+}
+div{
+	width: 25%;
+	height:50vh;
+}
+
+
+body{
+background-color: aqua;
+font-family: arial,verdana;
+padding: 10px;
+}
+
+
+.second{
+	color: blue;
+	text-align:center;
+}
+#top{
+	color:blue;
+	text-align: center;
+
+}
+p{
+	 color: pink;
+	text-align: center;
+	padding: 5px;
+}
+
+.europeans{
+color:pink;
+text-align: center;
+}
